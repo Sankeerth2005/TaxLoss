@@ -18,9 +18,10 @@ A responsive, premium React application designed to help users offset capital ga
 
 *(Please replace these placeholders with actual screenshots of the running app before submission)*
 
-- **Dashboard (Pre-Harvesting):** `[Add Screenshot Here]`
-- **Dashboard (Post-Harvesting with Charts):** `[Add Screenshot Here]`
-- **Holdings Table (Search & Sort active):** `[Add Screenshot Here]`
+- **Dashboard (Pre-Harvesting):** <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/b4d0f43c-5f74-4f4e-a9e7-52d3ce6ec63c" />
+
+- **Holdings Table (Search & Sort active):** <img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/19126923-aa4c-45d8-ae7c-0d4f0c790291" />
+
 
 ## 🛠️ Setup Instructions
 
